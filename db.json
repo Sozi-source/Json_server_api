@@ -9,7 +9,7 @@
       "price": 3200,
       "offers": { "bed": "3", "shower": "3", "occupants": "4-6" },
       "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511",
-      "discount": ""
+      "discount": "0"
     },
     {
       "id": 2,
@@ -31,7 +31,7 @@
       "price": 1500,
       "offers": { "bed": "2", "shower": "1", "occupants": "2-3" },
       "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
-      "discount": ""
+      "discount": "0"
     },
     {
       "id": 4,
@@ -64,7 +64,7 @@
       "price": 5000,
       "offers": { "bed": "5", "shower": "4", "occupants": "8-10" },
       "image": "https://images.unsplash.com/photo-1505691723518-36a5ac3be353",
-      "discount": ""
+      "discount": "0"
     },
     {
       "id": 7,
@@ -97,7 +97,7 @@
       "price": 2000,
       "offers": { "bed": "2", "shower": "1", "occupants": "2-3" },
       "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511",
-      "discount": ""
+      "discount": "0"
     },
     {
       "id": 10,
@@ -130,7 +130,7 @@
       "price": 3400,
       "offers": { "bed": "3", "shower": "3", "occupants": "4-6" },
       "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511",
-      "discount": ""
+      "discount": "0"
     },
     {
       "id": 13,
@@ -152,7 +152,7 @@
       "price": 2200,
       "offers": { "bed": "1", "shower": "1", "occupants": "2" },
       "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750",
-      "discount": ""
+      "discount": "0"
     },
     {
       "id": 15,
@@ -196,7 +196,7 @@
       "price": 3900,
       "offers": { "bed": "3", "shower": "3", "occupants": "4-5" },
       "image": "https://images.unsplash.com/photo-1600607687644-c87cbb9be3c6",
-      "discount": ""
+      "discount": "0"
     },
     {
       "id": 19,
@@ -218,7 +218,106 @@
       "price": 4100,
       "offers": { "bed": "3", "shower": "3", "occupants": "4-5" },
       "image": "https://images.unsplash.com/photo-1505691723518-36a5ac3be353",
-      "discount": ""
+      "discount": "0"
+    }
+  ],
+  
+  "reviews": [
+    {
+      "id": 1,
+      "propertyId": 1,
+      "name": "John Doe",
+      "avatar": "https://i.pravatar.cc/100?img=1",
+      "rating": 5,
+      "comment": "Amazing villa, beautiful view, and very clean! The staff was incredibly helpful."
+    },
+    {
+      "id": 2,
+      "propertyId": 1,
+      "name": "Sophia Smith",
+      "avatar": "https://i.pravatar.cc/100?img=2",
+      "rating": 4,
+      "comment": "Great location and pool. Would recommend, but Wi-Fi could be faster."
+    },
+    {
+      "id": 3,
+      "propertyId": 2,
+      "name": "Liam Brown",
+      "avatar": "https://i.pravatar.cc/100?img=3",
+      "rating": 5,
+      "comment": "Loved the mountain chalet! Perfect for a family trip with a cozy fireplace."
+    },
+    {
+      "id": 4,
+      "propertyId": 3,
+      "name": "Emily Johnson",
+      "avatar": "https://i.pravatar.cc/100?img=4",
+      "rating": 4,
+      "comment": "Cozy and peaceful retreat in the desert. The sunset views were breathtaking."
+    },
+    {
+      "id": 5,
+      "propertyId": 4,
+      "name": "Michael Clark",
+      "avatar": "https://i.pravatar.cc/100?img=5",
+      "rating": 5,
+      "comment": "The penthouse was stunning with panoramic city views. Worth every penny!"
+    },
+    {
+      "id": 6,
+      "propertyId": 5,
+      "name": "Isabella Martinez",
+      "avatar": "https://i.pravatar.cc/100?img=6",
+      "rating": 4,
+      "comment": "Loved the riverside location and free kayak rides. A perfect nature escape."
+    },
+    {
+      "id": 7,
+      "propertyId": 6,
+      "name": "William Lee",
+      "avatar": "https://i.pravatar.cc/100?img=7",
+      "rating": 5,
+      "comment": "Luxury at its finest! Private pool, beachfront, and top-notch chef service."
+    },
+    {
+      "id": 8,
+      "propertyId": 7,
+      "name": "Olivia Davis",
+      "avatar": "https://i.pravatar.cc/100?img=8",
+      "rating": 4,
+      "comment": "Beautiful lakeside chalet with amazing hiking trails nearby. Peaceful and relaxing."
+    },
+    {
+      "id": 9,
+      "propertyId": 8,
+      "name": "James Wilson",
+      "avatar": "https://i.pravatar.cc/100?img=9",
+      "rating": 5,
+      "comment": "Tropical paradise with lush gardens. Very clean and well maintained."
+    },
+    {
+      "id": 10,
+      "propertyId": 9,
+      "name": "Emma Thomas",
+      "avatar": "https://i.pravatar.cc/100?img=10",
+      "rating": 4,
+      "comment": "Urban loft with easy access to city attractions. Could use better soundproofing."
+    }
+  ],
+
+  "bookings": [
+     {
+      "id": 1,
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "email": "jane@example.com",
+      "phoneNumber": "0712345678",
+      "cardNumber": "**** **** **** 1234",
+      "expirationDate": "12/25",
+      "cvv": "***",
+      "propertyId": 1,
+      "createdAt": "2025-09-13T12:00:00Z"
     }
   ]
+
 }
