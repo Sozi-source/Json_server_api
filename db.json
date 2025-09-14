@@ -1,4 +1,4 @@
-{
+  {
   "properties": [
     {
       "id": 1,
@@ -8,7 +8,7 @@
       "category": ["Luxury Villa", "Pool", "Free Parking"],
       "price": 3200,
       "offers": { "bed": "3", "shower": "3", "occupants": "4-6" },
-      "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511",
+      "image": "/assets/images/1.jpg",
       "discount": 500
     },
     {
@@ -19,7 +19,7 @@
       "category": ["Mountain View", "Fireplace", "Self Checkin"],
       "price": 1800,
       "offers": { "bed": "4", "shower": "2", "occupants": "5-7" },
-      "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c",
+      "image": "/assets/images/2.jpg",
       "discount": 450
     },
     {
@@ -30,7 +30,7 @@
       "category": ["Desert View", "Pet Friendly", "Self Checkin"],
       "price": 1500,
       "offers": { "bed": "2", "shower": "1", "occupants": "2-3" },
-      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+      "image": "/assets/images/3.jpg",
       "discount": 400
     },
     {
@@ -41,7 +41,7 @@
       "category": ["City View", "Free WiFi", "24h Checkin"],
       "price": 4500,
       "offers": { "bed": "2", "shower": "2", "occupants": "2-4" },
-      "image": "https://images.unsplash.com/photo-1501183638710-841dd1904471",
+      "image": "/assets/images/4.jpg",
       "discount": 300
     },
     {
@@ -52,7 +52,7 @@
       "category": ["Riverside", "Private Dock", "Free Kayaks"],
       "price": 2800,
       "offers": { "bed": "3", "shower": "2", "occupants": "4-6" },
-      "image": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae",
+      "image": "/assets/images/5.jpg",
       "discount": 400
     },
     {
@@ -63,7 +63,7 @@
       "category": ["Beachfront", "Private Pool", "Chef Service"],
       "price": 5000,
       "offers": { "bed": "5", "shower": "4", "occupants": "8-10" },
-      "image": "https://images.unsplash.com/photo-1505691723518-36a5ac3be353",
+      "image": "/assets/images/6.jpg",
       "discount": 200
     },
     {
@@ -74,7 +74,7 @@
       "category": ["Lakeside", "Mountain View", "Hiking Trails"],
       "price": 2300,
       "offers": { "bed": "3", "shower": "3", "occupants": "4-5" },
-      "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+      "image": "/assets/images/7.jpg",
       "discount": 300
     },
     {
@@ -85,7 +85,7 @@
       "category": ["Garden", "Free Parking", "Self Checkin"],
       "price": 2750,
       "offers": { "bed": "3", "shower": "3", "occupants": "5-6" },
-      "image": "https://images.unsplash.com/photo-1560448075-bb485b067938",
+      "image": "/assets/images/8.jpg",
       "discount": 700
     },
     {
@@ -96,7 +96,7 @@
       "category": ["City Center", "Free WiFi", "24h Checkin"],
       "price": 2000,
       "offers": { "bed": "2", "shower": "1", "occupants": "2-3" },
-      "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511",
+      "image": "/assets/images/9.jpg",
       "discount": 500
     },
     {
@@ -107,7 +107,7 @@
       "category": ["Secluded", "Hot Tub", "Self Checkin"],
       "price": 2600,
       "offers": { "bed": "4", "shower": "2", "occupants": "5-7" },
-      "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "image": "/assets/images/10.jpg",
       "discount": 800
     },
     {
@@ -118,7 +118,7 @@
       "category": ["Cliffside", "Infinity Pool", "Sea View"],
       "price": 6000,
       "offers": { "bed": "4", "shower": "4", "occupants": "6-8" },
-      "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511",
+      "image": "/assets/images/11.jpg",
       "discount": 1000
     },
     {
@@ -129,7 +129,7 @@
       "category": ["Beachfront", "Pet Friendly", "Free Parking"],
       "price": 3400,
       "offers": { "bed": "3", "shower": "3", "occupants": "4-6" },
-      "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511",
+      "image": "/assets/images/12.jpg",
       "discount": 500
     },
     {
@@ -140,7 +140,7 @@
       "category": ["Historical", "Free Breakfast", "Self Checkin"],
       "price": 2700,
       "offers": { "bed": "2", "shower": "2", "occupants": "2-4" },
-      "image": "https://images.unsplash.com/photo-1523217582562-09d0def993a6",
+      "image": "/assets/images/13.jpg",
       "discount": 700
     },
     {
@@ -151,7 +151,7 @@
       "category": ["City Center", "Free WiFi", "Public Transport"],
       "price": 2200,
       "offers": { "bed": "1", "shower": "1", "occupants": "2" },
-      "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750",
+      "image": "/assets/images/14.jpg",
       "discount": 300
     },
     {
@@ -162,7 +162,7 @@
       "category": ["Safari", "Guided Tours", "Free Breakfast"],
       "price": 4500,
       "offers": { "bed": "4", "shower": "4", "occupants": "6-8" },
-      "image": "https://images.unsplash.com/photo-1560448075-bb485b067938",
+      "image": "/assets/images/15.jpg",
       "discount": 250
     },
     {
@@ -173,7 +173,7 @@
       "category": ["Countryside", "Fireplace", "Self Checkin"],
       "price": 1800,
       "offers": { "bed": "2", "shower": "1", "occupants": "2-4" },
-      "image": "https://images.unsplash.com/photo-1499696010180-025ef6e1a8f9",
+      "image": "/assets/images/16.jpg",
       "discount": 300
     },
     {
@@ -184,7 +184,7 @@
       "category": ["Riverfront", "Private Garden", "Self Checkin"],
       "price": 5000,
       "offers": { "bed": "4", "shower": "3", "occupants": "6-8" },
-      "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6",
+      "image": "/assets/images/17.jpg",
       "discount": 400
     },
     {
@@ -195,7 +195,7 @@
       "category": ["Mountain View", "Ski Access", "Fireplace"],
       "price": 3900,
       "offers": { "bed": "3", "shower": "3", "occupants": "4-5" },
-      "image": "https://images.unsplash.com/photo-1600607687644-c87cbb9be3c6",
+      "image": "/assets/images/18.jpg",
       "discount": 500
     },
     {
@@ -206,7 +206,7 @@
       "category": ["Beachfront", "Private Pool", "Chef Service"],
       "price": 6500,
       "offers": { "bed": "5", "shower": "5", "occupants": "8-10" },
-      "image": "https://images.unsplash.com/photo-1600585153964-52d5f6b52c53",
+      "image": "/assets/images/19.jpg",
       "discount": 600
     },
     {
@@ -217,7 +217,227 @@
       "category": ["Ocean View", "Private Pool", "Self Checkin"],
       "price": 4100,
       "offers": { "bed": "3", "shower": "3", "occupants": "4-5" },
-      "image": "https://images.unsplash.com/photo-1505691723518-36a5ac3be353",
+      "image": "/assets/images/20.jpg",
+      "discount": 500
+    },
+    {
+      "id": 21,
+      "name": "Beachfront Diani Villa",
+      "address": { "state": "Kwale", "city": "Diani", "country": "Kenya" },
+      "rating": 4.90,
+      "category": ["Beachfront", "Private Chef", "Free WiFi"],
+      "price": 3500,
+      "offers": { "bed": "4", "shower": "3", "occupants": "6-8" },
+      "image": "/assets/images/21.jpg",
+      "discount": 600
+    },
+    {
+      "id": 22,
+      "name": "Masai Mara Safari Camp",
+      "address": { "state": "Narok", "city": "Masai Mara", "country": "Kenya" },
+      "rating": 4.95,
+      "category": ["Safari", "Guided Tours", "Luxury Tents"],
+      "price": 4800,
+      "offers": { "bed": "3", "shower": "2", "occupants": "5-6" },
+      "image": "/assets/images/22.jpg",
+      "discount": 700
+    },
+    {
+      "id": 23,
+      "name": "Naivasha Lakeside Lodge",
+      "address": { "state": "Nakuru", "city": "Naivasha", "country": "Kenya" },
+      "rating": 4.73,
+      "category": ["Lakeside", "Boat Rides", "Nature Trails"],
+      "price": 2100,
+      "offers": { "bed": "3", "shower": "2", "occupants": "4-6" },
+      "image": "/assets/images/23.jpg",
+      "discount": 400
+    },
+    {
+      "id": 24,
+      "name": "Amboseli Eco-Lodge",
+      "address": { "state": "Kajiado", "city": "Amboseli", "country": "Kenya" },
+      "rating": 4.82,
+      "category": ["Eco-Friendly", "Mountain View", "Safari Access"],
+      "price": 2800,
+      "offers": { "bed": "2", "shower": "2", "occupants": "2-4" },
+      "image": "/assets/images/24.jpg",
+      "discount": 300
+    },
+    {
+      "id": 25,
+      "name": "Zanzibar Spice Villa",
+      "address": { "state": "Unguja", "city": "Stone Town", "country": "Tanzania" },
+      "rating": 4.87,
+      "category": ["Beachfront", "Cultural Tours", "Private Pool"],
+      "price": 3700,
+      "offers": { "bed": "3", "shower": "3", "occupants": "4-6" },
+      "image": "/assets/images/25.jpg",
+      "discount": 500
+    },
+    {
+      "id": 26,
+      "name": "Mombasa Old Town Apartment",
+      "address": { "state": "Mombasa", "city": "Mombasa", "country": "Kenya" },
+      "rating": 4.65,
+      "category": ["Historical", "City View", "Free WiFi"],
+      "price": 1900,
+      "offers": { "bed": "2", "shower": "1", "occupants": "2-3" },
+      "image": "/assets/images/26.jpg",
+      "discount": 200
+    },
+    {
+      "id": 27,
+      "name": "Kilimanjaro View Lodge",
+      "address": { "state": "Kilimanjaro", "city": "Moshi", "country": "Tanzania" },
+      "rating": 4.88,
+      "category": ["Mountain View", "Guided Hikes", "Eco-Friendly"],
+      "price": 3200,
+      "offers": { "bed": "3", "shower": "2", "occupants": "4-5" },
+      "image": "/assets/images/27.jpg",
+      "discount": 400
+    },
+    {
+      "id": 28,
+      "name": "Victoria Falls Riverside Resort",
+      "address": { "state": "Matabeleland", "city": "Victoria Falls", "country": "Zimbabwe" },
+      "rating": 4.92,
+      "category": ["Waterfront", "Guided Tours", "Private Balconies"],
+      "price": 4200,
+      "offers": { "bed": "4", "shower": "3", "occupants": "6-8" },
+      "image": "/assets/images/28.jpg",
+      "discount": 600
+    },
+    {
+      "id": 29,
+      "name": "Cairo City Penthouse",
+      "address": { "state": "Cairo Governorate", "city": "Cairo", "country": "Egypt" },
+      "rating": 4.70,
+      "category": ["City Center", "Historical Tours", "Luxury Living"],
+      "price": 3100,
+      "offers": { "bed": "3", "shower": "2", "occupants": "4-5" },
+      "image": "/assets/images/29.jpg",
+      "discount": 500
+    },
+    {
+      "id": 30,
+      "name": "Cape Verde Island Bungalow",
+      "address": { "state": "Sal", "city": "Santa Maria", "country": "Cape Verde" },
+      "rating": 4.76,
+      "category": ["Island Living", "Beachfront", "Self Checkin"],
+      "price": 2900,
+      "offers": { "bed": "2", "shower": "2", "occupants": "2-4" },
+      "image": "/assets/images/30.jpg",
+      "discount": 350
+    },
+    {
+      "id": 31,
+      "name": "Santorini White House",
+      "address": { "state": "South Aegean", "city": "Santorini", "country": "Greece" },
+      "rating": 4.94,
+      "category": ["Sea View", "Infinity Pool", "Romantic Getaway"],
+      "price": 5700,
+      "offers": { "bed": "2", "shower": "2", "occupants": "2-3" },
+      "image": "/assets/images/31.jpg",
+      "discount": 800
+    },
+    {
+      "id": 32,
+      "name": "Dubai Marina Luxury Suite",
+      "address": { "state": "Dubai", "city": "Dubai", "country": "UAE" },
+      "rating": 4.82,
+      "category": ["City View", "Private Balcony", "Luxury Stay"],
+      "price": 4900,
+      "offers": { "bed": "3", "shower": "3", "occupants": "4-6" },
+      "image": "/assets/images/32.jpg",
+      "discount": 700
+    },
+    {
+      "id": 33,
+      "name": "Rio Beach House",
+      "address": { "state": "Rio de Janeiro", "city": "Rio", "country": "Brazil" },
+      "rating": 4.79,
+      "category": ["Beachfront", "City Life", "Self Checkin"],
+      "price": 3300,
+      "offers": { "bed": "2", "shower": "2", "occupants": "2-4" },
+      "image": "/assets/images/33.jpg",
+      "discount": 400
+    },
+    {
+      "id": 34,
+      "name": "Buenos Aires Urban Loft",
+      "address": { "state": "Buenos Aires", "city": "Buenos Aires", "country": "Argentina" },
+      "rating": 4.68,
+      "category": ["City Center", "Modern Design", "Free WiFi"],
+      "price": 2100,
+      "offers": { "bed": "1", "shower": "1", "occupants": "2" },
+      "image": "/assets/images/34.jpg",
+      "discount": 200
+    },
+    {
+      "id": 35,
+      "name": "Havana Colonial House",
+      "address": { "state": "La Habana", "city": "Havana", "country": "Cuba" },
+      "rating": 4.74,
+      "category": ["Historical", "Cultural Tours", "City View"],
+      "price": 2300,
+      "offers": { "bed": "2", "shower": "1", "occupants": "2-3" },
+      "image": "/assets/images/35.jpg",
+      "discount": 250
+    },
+    {
+      "id": 36,
+      "name": "Sydney Harbour Penthouse",
+      "address": { "state": "New South Wales", "city": "Sydney", "country": "Australia" },
+      "rating": 4.91,
+      "category": ["Harbour View", "Luxury Living", "Private Balcony"],
+      "price": 6200,
+      "offers": { "bed": "3", "shower": "3", "occupants": "4-5" },
+      "image": "/assets/images/36.jpg",
+      "discount": 900
+    },
+    {
+      "id": 37,
+      "name": "Auckland Sky Apartment",
+      "address": { "state": "Auckland", "city": "Auckland", "country": "New Zealand" },
+      "rating": 4.69,
+      "category": ["City View", "Sky Tower View", "Self Checkin"],
+      "price": 2800,
+      "offers": { "bed": "2", "shower": "2", "occupants": "2-3" },
+      "image": "/assets/images/37.jpg",
+      "discount": 350
+    },
+    {
+      "id": 38,
+      "name": "Marrakech Riad",
+      "address": { "state": "Marrakech-Safi", "city": "Marrakech", "country": "Morocco" },
+      "rating": 4.84,
+      "category": ["Traditional Riad", "Courtyard", "Free Breakfast"],
+      "price": 2600,
+      "offers": { "bed": "3", "shower": "2", "occupants": "4-5" },
+      "image": "/assets/images/38.jpg",
+      "discount": 400
+    },
+    {
+      "id": 39,
+      "name": "Petra Desert Camp",
+      "address": { "state": "Ma'an", "city": "Petra", "country": "Jordan" },
+      "rating": 4.77,
+      "category": ["Desert Camp", "Guided Tours", "Cultural Experience"],
+      "price": 2000,
+      "offers": { "bed": "2", "shower": "1", "occupants": "2-3" },
+      "image": "/assets/images/39.jpg",
+      "discount": 300
+    },
+    {
+      "id": 40,
+      "name": "Istanbul Bosphorus View",
+      "address": { "state": "Istanbul", "city": "Istanbul", "country": "Turkey" },
+      "rating": 4.89,
+      "category": ["Waterfront", "Luxury Apartment", "City Center"],
+      "price": 3700,
+      "offers": { "bed": "3", "shower": "2", "occupants": "4-6" },
+      "image": "/assets/images/40.jpg",
       "discount": 500
     }
   ],
