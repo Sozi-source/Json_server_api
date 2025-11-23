@@ -1,6 +1,6 @@
 {
   "properties": [
-  { "id": 1, "name": "Villa Ocean Breeze", "address": { "state": "Seminyak", "city": "Bali", "country": "Indonesia" }, "rating": 4.89, "category": ["Luxury Villa", "Pool", "Free Parking"], "price": 3200, "offers": { "bed": "3", "shower": "3", "occupants": "4-6" }, "image": "/assets/images/1.png", "discount": 500 },
+  { "id": 1, "name": "Villa Ocean Breeze", "address": { "state": "Seminyak", "city": "Bali", "country": "Indonesia" }, "rating": 4.89, "category": ["Luxury Villa", "Pool", "Free Parking"], "price": 3200, "offers": { "bed": "3", "shower": "3", "occupants": "4-6" }, "image": "/assets/images/1.jpg", "discount": 500 },
   { "id": 2, "name": "Mountain Escape Chalet", "address": { "state": "Aspen", "city": "Colorado", "country": "USA" }, "rating": 4.7, "category": ["Mountain View", "Fireplace", "Self Checkin"], "price": 1800, "offers": { "bed": "4", "shower": "2", "occupants": "5-7" }, "image": "/assets/images/2.png", "discount": 450 },
   { "id": 3, "name": "Cozy Desert Retreat", "address": { "state": "Palm Springs", "city": "California", "country": "USA" }, "rating": 4.92, "category": ["Desert View", "Pet Friendly", "Self Checkin"], "price": 1500, "offers": { "bed": "2", "shower": "1", "occupants": "2-3" }, "image": "/assets/images/3.png", "discount": 400 },
   { "id": 4, "name": "City Lights Penthouse", "address": { "state": "New York", "city": "New York", "country": "USA" }, "rating": 4.85, "category": ["City View", "Free WiFi", "24h Checkin"], "price": 4500, "offers": { "bed": "2", "shower": "2", "occupants": "2-4" }, "image": "/assets/images/4.png", "discount": 300 },
@@ -211,6 +211,18 @@
       "firstName": "Jane",
       "lastName": "Doe",
       "email": "jane@example.com",
+      "phoneNumber": "0712345678",
+      "cardNumber": "**** **** **** 1234",
+      "expirationDate": "12/25",
+      "cvv": "***",
+      "propertyId": 1,
+      "createdAt": "2025-09-13T12:00:00Z"
+    },
+     {
+      "id": 2,
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john@example.com",
       "phoneNumber": "0712345678",
       "cardNumber": "**** **** **** 1234",
       "expirationDate": "12/25",
